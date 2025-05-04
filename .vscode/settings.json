@@ -1,0 +1,4 @@
+{
+    "java.compile.nullAnalysis.mode": "disabled",
+    "cmake.sourceDirectory": "C:/Users/wwwsa/WEBDEV/Flutter Projects/chat_cleaner/windows"
+}
