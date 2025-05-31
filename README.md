@@ -63,8 +63,5 @@ lib/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/chat_cleaner](https://github.com/yourusername/chat_cleaner)
+Project Link: [https://github.com/sameer-mohd09/chat_cleaner](https://github.com/sameer-mohd09/chat_cleaner)
