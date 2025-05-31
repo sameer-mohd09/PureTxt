@@ -21,7 +21,7 @@ A Flutter application designed to help users clean and organize their chat conve
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/chat_cleaner.git
+git clone https://github.com/sameer-mohd09/chat_cleaner.git
 ```
 
 2. Navigate to the project directory:
